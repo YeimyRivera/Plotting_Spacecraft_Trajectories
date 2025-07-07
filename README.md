@@ -3,5 +3,7 @@ A quick jupyter notebook that plots the trajectories for different spacecraft in
 
 The end of the jupyter notebook includes a method for creating a movie from a series of frames.
 
+Note: currently estimates the Earth as the Wind spacecraft location.
+
 Create a compatible python environment as:
 `conda env create -f trajectories_environment.yml`
